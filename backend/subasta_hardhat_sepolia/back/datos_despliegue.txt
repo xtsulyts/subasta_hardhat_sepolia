@@ -1,0 +1,20 @@
+--network sepolia --verify
+√ Confirm deploy to network sepolia (11155111)? ... yes
+Hardhat Ignition 🚀
+
+Deploying [ SubastaModule ]
+
+Batch #1
+  Executed SubastaModule#Subasta
+
+[ SubastaModule ] successfully deployed 🚀
+
+Deployed Addresses
+
+SubastaModule#Subasta - 0xb5519B20F6AD7F6a65f17cfFa55eb074853a7c69
+
+Verifying deployed contracts
+
+Verifying contract "contracts/SubastaSepolia.sol:Subasta" for network sepolia...    
+Successfully verified contract "contracts/SubastaSepolia.sol:Subasta" for network sepolia:
+  - https://sepolia.etherscan.io/address/0xb5519B20F6AD7F6a65f17cfFa55eb074853a7c69#code
