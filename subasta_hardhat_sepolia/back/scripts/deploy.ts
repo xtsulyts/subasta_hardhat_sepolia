@@ -12,6 +12,8 @@ async function main() {
   // Muestra la dirección del contrato desplegado
   const subastaAddress = await result.subasta.getAddress();
   console.log("Subasta desplegada en:", subastaAddress);
+
+  
 }
 
 // Ejecuta el script

@@ -1,7 +1,9 @@
 {
   "name": "hardhat-project",
   "devDependencies": {
+    "@nomicfoundation/hardhat-ignition": "^0.15.10",
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@types/dotenv": "^6.1.1",
     "@typescript-eslint/eslint-plugin": "^8.27.0",
     "@typescript-eslint/parser": "^8.27.0",
     "eslint": "^9.23.0",
